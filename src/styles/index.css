@@ -34,3 +34,6 @@ h2 {
   color: var(--textAlt);
 }
 /* the rest of styles are in the full index.css */
+*:not(body) {
+  transition: all 0.5s ease;
+}
