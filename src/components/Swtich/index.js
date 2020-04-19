@@ -1,6 +1,6 @@
 import React from "react";
 import { IoMdMoon as Moon, IoMdSunny as Sun } from "react-icons/io";
-const Swtich = () => {
+const Switch = () => {
   return (
     <button className="Switch">
       <Sun className="icon" />
@@ -9,4 +9,4 @@ const Swtich = () => {
   );
 };
 
-export default Swtich;
+export default Switch;
